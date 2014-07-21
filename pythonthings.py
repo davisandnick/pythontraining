@@ -5,5 +5,5 @@ if hello == "phillip" or hello == "nick" or hello == "davis":
 else:
     print("you're not my friend")
 
-for i in range(1,10):
+for i in range(1,100):
     print("hello")
