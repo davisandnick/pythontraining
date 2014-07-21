@@ -1,6 +1,6 @@
 hello = input("What is your name?")
 hello = hello.lower()
-if hello == "phillip" or hello == "nick" hello == "davis":
+if hello == "phillip" or hello == "nick" OR hello == "davis":
     print("your name is" + hello)
 else:
     print("you're not my friend")
